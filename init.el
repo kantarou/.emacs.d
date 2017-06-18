@@ -11,6 +11,9 @@
 ;; for elpa
 (add-to-load-path "elpa")
 
+;;multi-term
+(require 'multi-term)
+
 
 ;;php mode
 (require 'php-mode)
